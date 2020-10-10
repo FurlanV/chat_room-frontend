@@ -1,4 +1,4 @@
-![App Image](/chatRoom.png)
+![App Image](/ChatRoom.PNG)
 
 ## Available Scripts
 
