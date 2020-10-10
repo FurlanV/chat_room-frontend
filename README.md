@@ -1,5 +1,4 @@
 ![App Image](/chatRoom.png)
-Format: ![Alt Text](url)
 
 ## Available Scripts
 
